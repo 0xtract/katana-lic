@@ -49,5 +49,15 @@
         "created_at": "2026-08-20 15:57:28",
         "last_used": null,
         "telegram_id": 8009792776
+    },
+    "KATANA-TPY2-PRO3-3207": {
+        "type": "PRO",
+        "active": true,
+        "uses_left": null,
+        "max_uses": null,
+        "expires": "2027-08-20",
+        "hwid": null,
+        "created_at": "2026-08-20 16:01:13",
+        "last_used": null
     }
 }
