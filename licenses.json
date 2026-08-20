@@ -10,5 +10,11 @@
         "expires": "2027-01-31",
         "hwid": null,
         "last_used": null
+    },
+    "KATANA-FNLT-CCT0-EWDK": {
+        "active": true,
+        "expires": "2099-12-31",
+        "hwid": null,
+        "last_used": null
     }
 }
