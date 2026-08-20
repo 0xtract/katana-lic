@@ -21,7 +21,7 @@
     },
     "KATANA-PRO-0001-CCCC": {
         "type": "PRO",
-        "active": true,
+        "active": false,
         "uses_left": null,
         "max_uses": null,
         "expires": "2036-08-20",
