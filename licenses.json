@@ -1,17 +1,14 @@
 {
     "KATANA-TEST-1234": {
         "active": true,
-        "expires": "2026-07-10",
-        "hwid": "939e8650468f4974cc86ff71f733a76726d087bc9cd865d0fbf8a32fef369b66"
+        "expires": "2026-12-31",
+        "hwid": null,
+        "last_used": null
     },
     "KATANA-TEST-5678": {
         "active": true,
-        "expires": "2026-10-31",
-        "hwid": null
-    },
-    "KATANA-PRO-2026": {
-        "active": true,
         "expires": "2027-01-31",
-        "hwid": null
+        "hwid": null,
+        "last_used": null
     }
 }
