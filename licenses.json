@@ -99,5 +99,13 @@
         "hwid": null,
         "last_used": null,
         "uses_left": 30
+    },
+    "KATANA-7J6HP-ON5LK-B4FTN": {
+        "active": true,
+        "expires": "2026-08-21",
+        "type": "ADMIN",
+        "hwid": null,
+        "last_used": null,
+        "uses_left": 1488
     }
 }
