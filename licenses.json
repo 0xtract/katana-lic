@@ -104,8 +104,8 @@
         "active": true,
         "expires": "2026-08-21",
         "type": "ADMIN",
-        "hwid": null,
-        "last_used": null,
+        "hwid": "939e8650468f4974cc86ff71f733a76726d087bc9cd865d0fbf8a32fef369b66",
+        "last_used": "2026-08-20",
         "uses_left": 1488
     }
 }
